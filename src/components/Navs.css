@@ -1,0 +1,30 @@
+.container1 ul {
+  list-style-type: none;
+  text-decoration-line: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9999;
+  min-width: 100%;
+}
+.container1 link {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.container1 li {
+  float: left;
+}
+
+.container1 li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 104.6px 15px;
+}
+
+.container1 li :hover {
+  color: coral;
+  background-color: aqua;
+  text-decoration-line: none;
+}

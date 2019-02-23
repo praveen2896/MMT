@@ -1,0 +1,12 @@
+.bankcontainer {
+  /* padding: 100px 50px 150px 50px; */
+  padding-right: 50px;
+  padding-left: 50px;
+}
+.internal {
+  border-radius: 25px;
+}
+
+td:hover {
+  background-color: white;
+}

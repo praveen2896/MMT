@@ -1,0 +1,26 @@
+.aboutcard {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  /* padding-right: 60px;
+    padding-left: 60px; */
+  background-color: #ffcccc;
+  padding-top: 20px;
+  padding-bottom: 140px;
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutcard:hover {
+  box-shadow: 0 8px 16px 0 rgba(253, 124, 124, 0.2);
+}
+
+.abaoutcontainer {
+  padding: 0px 16px;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 450px;
+  float: right;
+}

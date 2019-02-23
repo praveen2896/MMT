@@ -1,0 +1,13 @@
+footer {
+  background-color: #ffd699;
+  color: black;
+}
+
+footer li {
+  color: white;
+}
+
+.container {
+  color: black;
+  float: center;
+}
